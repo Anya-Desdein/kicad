@@ -1,0 +1,10 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "NRF52840-QIAA-R") (type "KiCad") (uri "${KIPRJMOD}/NRF52840-QIAA-R.kicad_sym") (options "") (descr ""))
+	(lib (name "E22-900M22S") (type "KiCad") (uri "${KIPRJMOD}/E22-900M22S.kicad_sym") (options "") (descr ""))
+	(lib (name "VEML7700-TT") (type "KiCad") (uri "${KIPRJMOD}/VEML7700-TT.kicad_sym") (options "") (descr ""))
+	(lib (name "Pulse_Cup_Anemometer") (type "KiCad") (uri "${KIPRJMOD}/Pulse_Cup_Anemometer.kicad_sym") (options "") (descr ""))
+	(lib (name "SMT100_Analog") (type "KiCad") (uri "${KIPRJMOD}/SMT100_Analog.kicad_sym") (options "") (descr ""))
+	(lib (name "solar_p105") (type "KiCad") (uri "${KIPRJMOD}/solar_p105.kicad_sym") (options "") (descr ""))
+	(lib (name "tadiran-tl-5930") (type "KiCad") (uri "${KIPRJMOD}/tadiran-tl-5930.kicad_sym") (options "") (descr ""))
+)
